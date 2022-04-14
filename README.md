@@ -22,7 +22,7 @@ To start game from console you should clone this repository first:
 
 > <code>$ git clone https://github.com/katyaaltshuler/FactoryBack </code>
 
-And satisfy all requirements indicated.
+And satisfy all requirements.txt indicated if needed.
 > 
 **<h2>To be improved</h2>**
 <ul>
