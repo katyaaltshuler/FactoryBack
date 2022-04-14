@@ -104,25 +104,3 @@ class Robot:
         return resources
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-# @trackcalls
-#    def buy_robot(self, resources: Dict):
-#        time.sleep(0)
-#        if resources['foobar']-3 >= 0 and resources['foo']-6 >= 0:
-#            resources['foobar'] -= 3
-#            resources['foo'] -= 6
-#            print("+1 Robot")
-#            self.create_robot = True
-#            return resources, self.create_robot
-#        # return resources

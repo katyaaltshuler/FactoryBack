@@ -10,7 +10,7 @@ bar = []
 foobar = []
 euro = 0
 
-# -----------Adjust weights to increase probability of a certain action for robot-------------
+# -----------Adjust weights explicitly to increase probability of a certain action for robot-------------
 WEIGHTS = [20, 20, 20, 20, 20]
 
 MAX_ROBOTS = 30
